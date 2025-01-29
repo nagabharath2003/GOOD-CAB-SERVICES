@@ -17,6 +17,7 @@
 ### 🔍 Insights:
 
 **✅ Demand Fluctuations:** Identified peak and off-peak seasons for cab bookings.
+
 **✅ City-Wise Performance:** Found the highest and lowest revenue-generating cities.
 **✅ Target vs. Actual Performance:** Analyzed cities that overperformed or underperformed against their monthly targets.
 **✅ New Passenger Trends:** Ranked cities based on the number of new passengers acquired.
