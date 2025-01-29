@@ -54,4 +54,7 @@
 
 ## 📢 Contact
 
-For queries, feel free to connect via LinkedIn or email at your.email@example.com.
+For queries, feel free to connect via 
+
+[LinkedIn](https://www.linkedin.com/in/chamarthinagabharath/
+
