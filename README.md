@@ -1,4 +1,4 @@
-# 🚖 GoodCab Business Analysis 
+# GoodCab Business Analysis 🚖
 
 
 
@@ -9,7 +9,9 @@
 ## 🛠️ Skills & Tools Used
 
 **📊 SQL:** Used for querying the database, extracting insights, and handling ad hoc business requests.
+
 **📈 Excel:** Utilized for data cleaning, preprocessing, and exploratory analysis.
+
 **📌 Power BI:** Designed interactive dashboards to visualize key performance indicators (KPIs).
 
 ## 📊 Key Insights & Recommendations
@@ -19,22 +21,31 @@
 **✅ Demand Fluctuations:** Identified peak and off-peak seasons for cab bookings.
 
 **✅ City-Wise Performance:** Found the highest and lowest revenue-generating cities.
+
 **✅ Target vs. Actual Performance:** Analyzed cities that overperformed or underperformed against their monthly targets.
+
 **✅ New Passenger Trends:** Ranked cities based on the number of new passengers acquired.
+
 **✅ Revenue Contribution:** Determined the month contributing the highest revenue for each city.
 
 ### 💡 Recommendations:
 
 **📌 Dynamic Pricing:** Implement surge pricing during peak hours to maximize revenue.
+
 **📌 Driver Allocation Optimization:** Increase driver availability in high-demand zones.
+
 **📌 Marketing Strategy:** Focus on cities with lower passenger acquisition to boost new customer onboarding.
+
 **📌 Performance-Based Incentives:** Reward drivers in top-performing cities to sustain service quality.
+
 **📌 Expand Operations:** Consider expanding services in cities with consistent revenue growth.
 
 ## 📂 Project Files 📁
 
 📜 queries.sql → Contains all SQL queries used for data extraction and analysis.
+
 📊 dashboard.pbix → Power BI dashboard file with interactive visualizations.
+
 📄 analysis.xlsx → Excel file used for preprocessing and initial data exploration.
 
 
