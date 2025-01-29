@@ -52,7 +52,7 @@
 <a href="https://www.youtube.com/your-video-link" target="_blank">
   <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" alt="Live Dashboard" width="50" height="50">
 
-_[View live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTA0YjA2OGQtMzA4ZS00ZmFmLThjNDMtM2JiMzFjNzgzNzI4IiwidCI6ImZhNDQ2MjdjLTdiMmMtNDQxMi1iOTUyLWFiYTU5M2M4ODJkNiJ9)_
+_[View live Dashboard]<iframe title="goodcabs" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMjRjMWYwMDAtMGZlOS00ZTZiLTkwMzUtNjU3N2NlZTZmYmU1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" frameborder="0" allowFullScreen="true"></iframe>
   
 Get more insights and knowledge about good cabs
 
