@@ -1,6 +1,6 @@
 -- Monthly Revenue Analysis
 WITH monthly_revenue_analysis AS (
-    SELECT 
+    **SELECT **
         dc.city_name,
         dd.month_name,
         SUM(ft.fare_amount) AS monthly_revenue
