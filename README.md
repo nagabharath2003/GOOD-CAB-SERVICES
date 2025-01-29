@@ -48,6 +48,14 @@
 
 📄 analysis.xlsx → Excel file used for preprocessing and initial data exploration.
 
+## Dashboard
+<a href="https://www.youtube.com/your-video-link" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" alt="Live Dashboard" width="50" height="50">
+
+_[View live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTA0YjA2OGQtMzA4ZS00ZmFmLThjNDMtM2JiMzFjNzgzNzI4IiwidCI6ImZhNDQ2MjdjLTdiMmMtNDQxMi1iOTUyLWFiYTU5M2M4ODJkNiJ9)_
+  
+Get more insights and knowledge about good cabs
+
 
 ## 📢 Contact
 
